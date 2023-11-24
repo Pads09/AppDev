@@ -1,2 +1,5 @@
-# AppDev
-My first repository
+Marlvin Mangubos
+Ian Kurtz Orolfo
+Ross Baseleres
+Louie Fernandez
+
